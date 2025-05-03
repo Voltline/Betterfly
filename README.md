@@ -2,14 +2,14 @@
   <img src=Others/betterfly-logo.jpg >
 </div>
 
-# Betterfly-Server-Python
+# Betterfly
 > *这是一个尝试实现即时通讯软件的项目*
 > 
 > *本项目基于[QuickIM](https://github.com/Voltline/QuickIM)项目的基本思路，使用Python语言重新开发*
 
-![License](https://img.shields.io/github/license/Voltline/Betterfly-Server-Python)
-![Issues](https://img.shields.io/github/issues/Voltline/Betterfly-Server-Python)
-![Stars](https://img.shields.io/github/stars/Voltline/Betterfly-Server-Python)
+![License](https://img.shields.io/github/license/Voltline/Betterfly)
+![Issues](https://img.shields.io/github/issues/Voltline/Betterfly)
+![Stars](https://img.shields.io/github/stars/Voltline/Betterfly)
 
 ## 成员/Collaborators
 * [Voltline](https://github.com/Voltline)
@@ -30,7 +30,7 @@
   <img src=Others/betterfly-architecture.svg>
 </div>
 
-## 项目信息/About Betterfly-Server-Python
+## 项目信息/About Betterfly
 ### 语言/Lang
 * 语言/Lang：Python
 ### 第三方库/Third-Party Library
